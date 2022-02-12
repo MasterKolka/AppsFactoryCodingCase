@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\AppsFactoryWeather.Integrations\AppsFactoryWeather.Integrations.csproj" />
+      <ProjectReference Include="..\AppsFactoryWeather.Models\AppsFactoryWeather.Models.csproj" />
+    </ItemGroup>
+
+</Project>
